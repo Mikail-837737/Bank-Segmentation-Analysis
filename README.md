@@ -66,11 +66,6 @@ Uncovers the top spending customer in each city to help with targeted relationsh
 
 ---
 
-## 🧑‍💼 About Me
-
-I'm a data analyst passionate about financial analytics and customer behavior analysis. My goal is to help businesses make informed decisions using data. This project is part of my journey toward mastering financial data analysis and preparing for real-world data roles in banking and fintech.
-
----
 
 ## Credits for durueke franklin
 
